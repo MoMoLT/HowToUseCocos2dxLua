@@ -1,0 +1,2 @@
+# HowToUseCocos2dxLua
+一些coco2dx_lua函数的用法
